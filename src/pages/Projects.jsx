@@ -61,7 +61,7 @@ const Projects = () => {
               title="PG Website"
               description="Built a dynamic platform during my internship at Internshala for finding and managing PG accommodations. Developed with Node.js, Express, EJS, and MongoDB, the website integrates RESTful APIs for seamless data handling and provides a user-friendly interface for searching, filtering, and viewing PG listings."
               ghLink="https://github.com/noochila/pglife"
-{/*                demoLink="https://pglife-bc8y.onrender.com/" */}
+
             />
           </Col>
 
