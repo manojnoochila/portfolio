@@ -25,7 +25,7 @@ const Footer = () => {
             <ul className="footer-icons">
               <li className="social-icons">
                 <a
-                  href="https://github.com/manojnoochila"
+                  href="https://github.com/noochila"
                   style={{ color: "white" }}
                   target="_blank" 
                   rel="noopener noreferrer"
